@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="108px" viewBox="0 0 262 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eth_darkbg</title>
+    <g id="badge_dark_bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-11" fill="#2D2D2D" fill-rule="nonzero" x="0" y="0" width="261.183685" height="108" rx="12"></rect>
+        <text id="ethereum" stroke="#FFFFFF" fill-rule="nonzero" font-family="SFProText-Regular, SF Pro Text" font-size="36" font-weight="normal" line-spacing="45" fill="#FFFFFF">
+            <tspan x="82" y="76">ethereum</tspan>
+        </text>
+        <path d="M44.5889977,15.429 L44.071,17.1900016 L44.071,68.3090049 L44.5889977,68.826995 L68.3180016,54.8000022 L44.5889977,15.429 Z" id="Path-49" stroke="#2B2B2B" stroke-width="0.25" fill="#FF826B" fill-rule="nonzero"></path>
+        <path d="M44.5889963,15.429 L20.86,54.8000022 L44.5889963,68.826995 L44.5889963,44.0149985 L44.5889963,15.429 Z" id="Path-50" stroke="#2B2B2B" stroke-width="0.25" fill="#F3F047" fill-rule="nonzero"></path>
+        <path d="M44.5889998,73.3189972 L44.297,73.6759918 L44.297,91.8849915 L44.5889998,92.7380035 L68.3320037,59.3 L44.5889998,73.3189972 Z" id="Path-51" stroke="#2B2B2B" stroke-width="0.25" fill="#6A7DD1" fill-rule="nonzero"></path>
+        <path d="M44.5889963,92.7380035 L44.5889963,73.3189972 L20.86,59.3 L44.5889963,92.7380035 Z" id="Path-52" stroke="#2B2B2B" stroke-width="0.25" fill="#00B2D8" fill-rule="nonzero"></path>
+        <path d="M44.589,68.8269965 L68.3170045,54.8009955 L44.589,44.015 L44.589,68.8269965 Z" id="Path-53" stroke="#2B2B2B" stroke-width="0.25" fill="#A762B4" fill-rule="nonzero"></path>
+        <path d="M20.86,54.8000037 L44.5889963,68.8269965 L44.5889963,44.015 L20.86,54.8000037 Z" id="Path-54" stroke="#2B2B2B" stroke-width="0.25" fill="#00BF70" fill-rule="nonzero"></path>
+        <text id="BUILT-ON" fill-rule="nonzero" font-family="SFProText-Regular, SF Pro Text" font-size="15.0858898" font-weight="normal" line-spacing="18" letter-spacing="2.60985894" fill="#FFFFFF">
+            <tspan x="88" y="40">BUILT ON</tspan>
+        </text>
+    </g>
+</svg>
